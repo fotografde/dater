@@ -1,5 +1,5 @@
 {
-	"name": "dater/dater",
+	"name": "fotografde/dater",
 	"description": "Compact PHP library for working with date/time in different formats & timezones.",
 	"keywords": ["PHP", "date", "timezone", "datetime", "time"],
 	"homepage": "https://github.com/barbushin/dater",
